@@ -1,0 +1,46 @@
+-- -- Inserts for GrupoFinanceiro with TipoEntrada = "Entrada"
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 1', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 2', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 3', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 4', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 5', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 6', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 7', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 8', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 9', 1);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 10', 1);
+
+-- -- Inserts for GrupoFinanceiro with TipoEntrada = "Saida"
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 11', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 12', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 13', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 14', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 15', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 16', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 17', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 18', 2);
+-- INSERT INTO tb_grupo_financeiro (descricao, tipo_entrada) VALUES ('Grupo 19', 2);
+-- --
+-- --   Inserts for ContaFinanceira with TipoEntrada = "Entrada"
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 1', 1,1);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 2', 1,2);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 3', 1,3);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 4', 1,4);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 5', 1,5);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 6', 1,1);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 7', 1,2);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 8', 1,3);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 9', 1,4);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 10', 1,5);
+
+-- -- Inserts for ContaFinanceira with TipoEntrada = "Saida"
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 11', 2,1);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 12', 2,2);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 13', 2,3);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 14', 2,4);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 15', 2,5);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 16', 2,1);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 17', 2,2);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 18', 2,3);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 19', 2,4);
+-- INSERT INTO tb_conta_financeira (descricao, tipo_entrada, grupo_Financeiro_id) VALUES ('Conta 20', 2,5);

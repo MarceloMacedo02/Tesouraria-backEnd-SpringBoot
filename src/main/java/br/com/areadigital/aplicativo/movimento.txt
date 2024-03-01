@@ -1,0 +1,12 @@
+Entradas:
+    Mensalidades
+    Taxas
+    Doações
+    Dízimo/CaixaBoaVontade
+Saidas:
+    pagamentos de fornecedores
+    pagamento de fundos
+    repasse Dízimo
+
+Relatórios:
+    Balancete por
